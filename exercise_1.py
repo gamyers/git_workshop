@@ -1,8 +1,8 @@
-MEMBER_1 = "Terry"\
+MEMBER_1 = "Greg"
 MEMBER_2 = "Allen"
 MEMBER_3 = "vivek"
 
-MEMBER_1_HOME = "Richmond, VA"
+MEMBER_1_HOME = "Tulsa, OK"
 MEMBER_2_HOME = "Haiphong, Viet Nam"
 MEMBER_3_HOME = "Monterrey, Mexico"
 
